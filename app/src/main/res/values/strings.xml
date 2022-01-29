@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="true_button">True</string>
+    <string name="false_buttonn">false</string>
+    <string name="next_button">Next</string>
+    <string name="false_messsage">Thank you for your response </string>
+    <string name="true_message">Thank you for your response</string>
+
+    <string name="question_one">1. Are you stressed today?</string>
+    <string name="question_two">2. Do you feel anxious or worried?</string>
+    <string name="question_three">3. Do you feel overwhelmed today?</string>
+    <string name="question_four">4. Do you feel positive today?</string>
+    <string name="false_button">False</string>
+    <string name="stress_questions">Stress Questions</string>
+
+
+</resources>
