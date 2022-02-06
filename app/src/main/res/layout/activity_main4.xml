@@ -11,11 +11,12 @@
         android:layout_width="327dp"
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
         android:layout_marginEnd="41dp"
-        android:paddingTop="40sp"
+        android:paddingTop="60sp"
         android:paddingBottom="30sp"
         android:text="Setting your Goals"
-        android:layout_centerHorizontal="true"
         android:textColor="@color/black"
         android:textSize="35sp"
         android:textStyle="bold" />
@@ -36,6 +37,7 @@
             android:text="Please enter your weekly goals:"
             android:paddingTop="30sp"
             android:paddingBottom="30sp"
+            android:gravity="center"
             android:textColor="@color/black"
             android:textSize="22sp"
             android:textStyle="italic" />
@@ -84,7 +86,7 @@
         android:layout_marginEnd="53dp"
         android:layout_marginBottom="189dp"
         android:backgroundTint="@color/black"
-        android:text="SUBMIT"
+        android:text=" Click to access calander"
         android:textColor="@color/white"/>
 
 </RelativeLayout>

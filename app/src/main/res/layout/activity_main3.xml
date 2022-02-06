@@ -11,24 +11,25 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:includeFontPadding="true"
         android:layout_marginStart="50dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="50dp"
         android:layout_marginBottom="50dp"
         android:gravity="center"
+        android:includeFontPadding="true"
         android:minHeight="0dp"
-        android:paddingBottom="50dp"
         android:paddingTop="20dp"
+        android:paddingBottom="50dp"
         android:text="@string/stress_questions"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="35sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Please answer four questions on how you feel today"
+        android:text="Please answer four questions on how you feel today or click to add your goals!"
         android:textColor="@color/black"
         android:textSize="18sp"
         android:textAlignment="center"
@@ -55,6 +56,7 @@
             android:layout_width="120dp"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textSize="20sp"
             android:layout_marginStart="10dp"
             android:layout_marginBottom="20dp"
@@ -65,6 +67,7 @@
             android:layout_width="120dp"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:textSize="20sp"
             android:text="No"
             android:layout_marginStart="10dp"
@@ -76,6 +79,7 @@
             android:layout_width="120dp"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/black"
+            android:textColor="@color/white"
             android:layout_marginBottom="20dp"
             android:textSize="20sp"
             android:text="@string/next_button"/>
