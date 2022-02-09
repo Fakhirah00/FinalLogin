@@ -89,7 +89,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/black"
-        android:text="Click to Add Goals"
+        android:text="Click to Add Your Goals!"
         android:layout_centerHorizontal="true"
         android:textColor="@color/white" />
 
