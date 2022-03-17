@@ -49,7 +49,7 @@ public class MainActivity<view> extends AppCompatActivity {
                         Toast.makeText(MainActivity.this, "Login Successful", Toast.LENGTH_SHORT).show();
                     }else
                         //incorrect
-                        Toast.makeText(MainActivity.this, "Login Unsuccessful", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "Login Unsuccessful, please try again!", Toast.LENGTH_SHORT).show();
                 }
             });
         }};
